@@ -53,7 +53,7 @@ Big Time is a multiplayer Web3 action RPG that blends fast-paced combat, dungeon
 ![Party Dungeon Run](https://gam3s.gg/_next/image/?url=https%3A%2F%2Fassets.gam3s.gg%2FBigtime_game_image_1_c0dccbda92%2FBigtime_game_image_1_c0dccbda92.png&w=3840&q=75)  
 *4-player dungeon clearing with Chronomancer support*
 
-![NFT Gear Drop](https://images.contentstack.io/v3/assets/blt38dd155f8beb7337/bltb2e5112f6a336aaf/653a2f698f69600407516082/big_time_character_cosmetics.webp)  
+![NFT Gear Drop](https://gam3s.gg/_next/image/?url=https%3A%2F%2Fassets.gam3s.gg%2FBigtime_game_image_2_294105914f%2FBigtime_game_image_2_294105914f.png&w=3840&q=75)  
 *Looted legendary NFT blade with time crystal socket*
 
 ---
